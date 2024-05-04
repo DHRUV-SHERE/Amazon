@@ -30,7 +30,7 @@
     background-size: cover;
     width:7vw;
     height: 9vh;
-    background-image: url("../IMG/amazon_logo.png");
+    background-image: url("./IMG/amazon_logo.png");
 }
 
 .address-1 {
@@ -138,7 +138,7 @@ span {
 }
 
 .hero-section {
-    background-image: url("../IMG/background.jpg");
+    background-image: url("./IMG/background.jpg");
     height: 50vh;
     display: flex;
     background-size: cover;
@@ -263,7 +263,7 @@ ul a:hover{
 }
 
 .Logo {
-    background-image: url("../IMG/amazon_logo.png");
+    background-image: url("./IMG/amazon_logo.png");
     background-size: cover;
     height: 50px;
     width: 100px;
